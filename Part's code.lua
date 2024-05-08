@@ -11,12 +11,14 @@
 -- Do not modify anything below here! --
 
 coroutine.wrap(function()
---START--
---[[Idk why I made this. I was board--]]--[[Welp your welcome--]]while true do
-game:GetService("Chat"):Chat(script.Parent, tostring((tostring([[Lol]]))))
+	--START--
+	--[[Idk why I made this. I was board--]]
+	--[[Welp your welcome--]]
+	while true do
+		game:GetService("Chat"):Chat(script.Parent, tostring((tostring([[Hi! I am a part!]]))))
 
-task.wait()
-end
+		task.wait()
+	end
 
--------
+	-------
 end)()
