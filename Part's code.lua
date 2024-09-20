@@ -12,8 +12,7 @@
 
 coroutine.wrap(function()
 	--START--
-	--[[Idk why I made this. I was board--]]
-	--[[Welp your welcome--]]
+	--[[Idk why I made this. I was board]]
 	while true do
 		game:GetService("Chat"):Chat(script.Parent, tostring((tostring([[Hi! I am a part!]]))))
 
@@ -22,3 +21,5 @@ coroutine.wrap(function()
 
 	-------
 end)()
+
+	--[[Welp your welcome--]]
